@@ -7,7 +7,7 @@
 <a name="tiếng-việt"></a>
 ## Tiếng Việt
 
-Trình quay màn hình đơn giản, tiện lợi. 
+Trình quay màn hình đơn giản, tiện lợi. Ví dụ một video được quay bởi công cụ: https://www.youtube.com/watch?v=mWlgsCRZJS8
 
 Dùng luôn qua trình duyệt, không phải cài thêm phần mềm hoặc addon nào. Không cần đăng ký, đăng nhập bất cứ tài khoản nào. 
 
