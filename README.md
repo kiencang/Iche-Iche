@@ -21,6 +21,7 @@ Ví dụ một video được quay bởi công cụ: https://www.youtube.com/wat
 - **Tối ưu cho máy tính:** Dùng tốt nhất trên các trình duyệt nhân Chromium (như Chrome, Edge, Opera, Brave, Cốc Cốc) trên hệ điều hành Windows với màn hình lớn. Cần cấp quyền (nếu được hỏi) để trình duyệt được phép ghi hình và lưu âm thanh;
 - **Lưu ý tương thích:** Trên các trình duyệt khác (ví dụ Firefox) hoặc trên các hệ điều hành khác (ví dụ macOS) có thể không hoạt động đầy đủ tính năng, hoặc cần thêm các cài đặt bổ sung để việc quay màn hình được diễn ra thuận lợi;
 - **Bảo mật quyền riêng tư:** Dữ liệu xử lý hoàn toàn phía máy khách (client-side), không gửi dữ liệu ra server bên ngoài;
+- **Có giao diện cho người thị lực kém:** Với font chữ to, rõ hơn để sử dụng công cụ dễ dàng hơn;
 - **Mã nguồn mở:** Mã nguồn GitHub công khai, mọi người có thể lấy về điều chỉnh thêm & tự host trên một địa chỉ khác nếu muốn (ví dụ trên Cloudflare Workers & Pages). Nếu đơn giản chỉ cần dùng ngay ứng dụng thì bạn vào link trên.
 
 ### Tuyên bố từ chối trách nhiệm
@@ -45,6 +46,7 @@ Use it directly in your browser without installing any extra software or add-ons
 - **Optimized for Chromium:** Works best on Chromium-based browsers (such as Chrome, Edge, Opera, Brave, Cốc Cốc) on Windows OS with a large screen. Remember to grant permissions (if prompted) to allow the browser to record video and save audio;
 - **Compatibility note:** On other browsers (e.g., Firefox) or other operating systems (e.g., macOS), full functionality may not be supported, or additional settings may be required for the screen recording to work smoothly;
 - **Privacy-focused:** Data is processed entirely client-side, with no data ever sent to external servers;
+- **Low-vision interface:** Features larger, clearer fonts for easier tool usage;
 - **Open source:** Public GitHub repository available for anyone to clone, modify, and self-host on a different domain if desired (e.g., on Cloudflare Workers & Pages). If you simply want to use the application right away, just visit the link provided above;
 
 ### Disclaimer
